@@ -42,6 +42,30 @@ Nastafeed is an app where students can exchange Resources (books, slides, memos,
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 •	Design
 
 ![image](https://user-images.githubusercontent.com/104793458/198898904-20920691-1913-4d18-b152-e62d4cbeb0bc.png)
