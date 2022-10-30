@@ -31,9 +31,9 @@ Nastafeed is an app where students can exchange Resources (books, slides, memos,
 
 •	Functional requirements
 
-Objectives--------------------------------Exchange recourses.
-Documentation-----------------------------It is a library, but the books provided by the students.
-Focus-------------------------------------Reduce wasted recourses.
+1-Objectives--------------------------------Exchange recourses.
+2-Documentation-----------------------------It is a library, but the books provided by the students.
+3-Focus-------------------------------------Reduce wasted recourses.
 
 
 
