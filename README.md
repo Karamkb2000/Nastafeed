@@ -36,6 +36,7 @@ Focus-------------------------------------Reduce wasted recourses.
 •	Design
 
 ![image](https://user-images.githubusercontent.com/104793458/198898904-20920691-1913-4d18-b152-e62d4cbeb0bc.png)
+
 ![image](https://user-images.githubusercontent.com/104793458/198898919-31471d1c-4926-49bb-b058-94163ca73a83.png)
 ![image](https://user-images.githubusercontent.com/104793458/198898908-3bed1d52-7e9f-4abc-862f-f22c0db4afdc.png)
 ![image](https://user-images.githubusercontent.com/104793458/198898937-7791791c-ca95-4437-92ec-858f4e9adf5d.png)
